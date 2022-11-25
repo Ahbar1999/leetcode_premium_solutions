@@ -1,3 +1,9 @@
+"""
+Question statement: 
+Given a sequence originalSeq and an array of sequences, write a method to find if originalSeq can be uniquely reconstructed from the array of sequences.
+
+Unique reconstruction means that we need to find if originalSeq is the only sequence such that all sequences in the array are subsequences of it. 
+"""
 
 from collections import deque
 
